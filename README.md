@@ -168,12 +168,3 @@ README.md
 
 **Admin**
 <img width="1209" height="856" alt="image" src="https://github.com/user-attachments/assets/d0c359de-a4e1-4cb5-a1d9-274a182b868a" />
-
-
-2. Paste this content
-
-3. Push to GitHub:
-```bash
-git add README.md
-git commit -m "Added README"
-git push
